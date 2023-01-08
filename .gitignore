@@ -1,0 +1,17 @@
+StarryTail/.vs/
+StarryTail/.idea/
+StarryTail/Binaries/
+StarryTail/Build/
+StarryTail/Intermediate/
+StarryTail/Saved/
+StarryTail/Lucia.sln
+StarryTail/Lucia.sln.DotSettings.user
+StarryTail/Plugins/SpinePlugin/Intermediate/
+StarryTail/Plugins/SpinePlugin/Binaries/
+!Config/
+!Content/
+!Source/
+!Plugins/
+!SpinePlugin.uplugin
+!Lucia.uproject
+*_BuiltData.uasset
