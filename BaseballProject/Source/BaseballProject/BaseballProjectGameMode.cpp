@@ -12,4 +12,5 @@ ABaseballProjectGameMode::ABaseballProjectGameMode()
 	//{
 	//	DefaultPawnClass = PlayerPawnBPClass.Class;
 	//}
+
 }
